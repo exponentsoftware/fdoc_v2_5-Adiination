@@ -1,0 +1,18 @@
+Ans1).Difference between Some() and every() is that some() fucntion checks if even a single element satisfies the given
+condition and Every() function checks if all the elements satisfy the given condition.
+
+Ans2).Spread operator and rest parameter both are denoted by three dots(...). The difference between both of them 
+is the spread operator is used to spread the elements of an array or an iterable object (like a string or another array) into individual elements.
+and the Rest parameter allows a function to accept an indefinite number of arguments as an array.
+
+Ans3).Difference between splice() and slice() method is splice method is used to modify an array and we can add some element to from whichever index we want
+while slice method returns a new array or a copy of the given array or the portion of the array which we have
+asked for by giving strating index number and end index number where to stop at.
+
+Ans4).I would strongly prefer splice() method to remove an object from an array instead of filter() because 
+splice() method makes it really easy to remove an element form an array by giving index number of what to remove 
+and how much to remove. Filter() method is used to perform a given call back function on every element of the array.
+
+Ans5). Difference between Null and Undefined is they both are false when seen as a boolean value but Null is 
+a deliberate assignment of no value while Undefined is default value assigned to a variable by javascript that are declared 
+but not assigned a value.Null is of type Object while undefined is type of Undefined.
